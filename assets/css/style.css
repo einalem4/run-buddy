@@ -9,6 +9,10 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 
+section {
+    padding: 60px;
+}
+
 /***header and nav***/
 header {
     padding: 20px 35px;
@@ -66,3 +70,20 @@ footer div {
 footer a {
     color: #024e76;
 }
+
+/***hero section**/
+.hero {
+    background-image: url("../images/hero-bg.jpg");
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-form {
+    background-color: #fce138;
+    padding: 20px;
+    width: 500px;
+    color: #024e76;
+    border: solid 3px #024e76;
+}
+
