@@ -13,7 +13,7 @@ section {
     padding: 60px;
 }
 
-/***header and nav***/
+/***HEADER/NAV***/
 header {
     padding: 20px 35px;
     background-color: #39a6b2;
@@ -47,7 +47,7 @@ header nav ul li a {
     font-size: 22px;
 }
 
-/***footer**/
+/***FOOTER**/
 footer{
     background: #fce138;
     width: 100%;
@@ -71,7 +71,7 @@ footer a {
     color: #024e76;
 }
 
-/***hero section**/
+/***HERO**/
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
