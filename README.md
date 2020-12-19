@@ -12,3 +12,5 @@ https://einalem4.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Melanie Arnold
+
+### ©️2019 Run Buddy, Inc 
